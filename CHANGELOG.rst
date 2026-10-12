@@ -4,6 +4,12 @@ Changelog
 Only important changes are mentioned below. See `commit log <https://github.com/darklow/django-suit/commits/develop>`_, `closed issues <https://github.com/darklow/django-suit/issues?direction=desc&sort=updated&state=closed>`_ and `closed pull
 requests <https://github.com/darklow/django-suit/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aclosed>`_ for full changes.
 
+v0.2.30 (2026-10-12)
+--------------------
+* [Fix] Django 4 and 5 compatibility fixes.
+* [Fix] Log out via POST, as required by Django 5.
+
+
 v.0.2.29 (2021-04-28)
 --------------------
 * This is a 'maintenance fork' which contains some fixes for compatibility with the latest Django releases.
